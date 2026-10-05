@@ -1,0 +1,5 @@
+Enter number of keys: 6
+Enter 6 keys:
+10 20 5 15 25 30
+B+ Tree Leaf Nodes:
+[ 5 10 ] [ 15 20 ] [ 25 30 ]

@@ -1,0 +1,29 @@
+Method? (1=Division, 2=Multiplication): 1
+
+1. Insert  2. Search  3. Display  4. Exit: 1
+Key: 11
+Value: Apple
+
+1. Insert  2. Search  3. Display  4. Exit: 1
+Key: 21
+Value: Banana
+
+1. Insert  2. Search  3. Display  4. Exit: 2
+Key: 11
+Found: Apple
+
+1. Insert  2. Search  3. Display  4. Exit: 3
+
+Index   Key     Value
+0       --------
+1       11      Apple
+2       21      Banana
+3       --------
+4       --------
+5       --------
+6       --------
+7       --------
+8       --------
+9       --------
+
+1. Insert  2. Search  3. Display  4. Exit: 4

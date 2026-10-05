@@ -1,0 +1,14 @@
+Enter number of names: 5
+Enter 5 names:
+Senthuran
+Yogesh
+Aadhi
+Amudhan
+Dhanesh
+
+Names in descending order:
+Yogesh
+Senthuran
+Dhanesh
+Amudhan
+Aadhi

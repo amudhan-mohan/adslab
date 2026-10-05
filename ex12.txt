@@ -1,0 +1,12 @@
+Enter number of elements: 4
+Enter the 4 elements:
+apple
+mango
+orange
+banana
+
+Bloom Filter bit array:
+0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0
+
+Enter element to search: mango
+'mango' may be present in the set.

@@ -1,0 +1,3 @@
+Enter number of elements: 5
+Enter 5 elements: 7 1 6 2 3
+Sorted array (Ascending using Heap): 1 2 3 6 7
