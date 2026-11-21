@@ -1,0 +1,26 @@
+OUTPUT:
+
+Enter number of elements: 4
+Enter the elements:
+apple
+mango
+orange
+banana
+Bloom Filter:
+1 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 1
+Enter element to search: mango
+mango may be present in the set.
+
+
+OUTPUT (Test 2: Element Not Present):
+
+Enter number of elements: 4
+Enter the elements:
+apple
+mango
+orange
+banana
+Bloom Filter:
+1 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 1
+Enter element to search: grape
+grape is definitely not present in the set.

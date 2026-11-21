@@ -1,0 +1,38 @@
+OUTPUT:
+
+Enter number of keys: 6
+Enter the keys:
+10
+20
+5
+15
+25
+30
+B+ Tree Structure:
+[ 15 25 ]
+      [ 5 10 ]
+      [ 15 20 ]
+      [ 25 30 ]
+Leaf nodes (linked): [ 5 10 ] [ 15 20 ] [ 25 30 ]
+Enter key to search: 15
+15 found
+
+
+OUTPUT (Test 2: 12 Keys (Three Levels)):
+
+Enter number of keys: 12
+Enter the keys:
+1 2 3 4 5 6 7 8 9 10 11 12
+B+ Tree Structure:
+[ 7 ]
+      [ 3 5 ]
+            [ 1 2 ]
+            [ 3 4 ]
+            [ 5 6 ]
+      [ 9 11 ]
+            [ 7 8 ]
+            [ 9 10 ]
+            [ 11 12 ]
+Leaf nodes (linked): [ 1 2 ] [ 3 4 ] [ 5 6 ] [ 7 8 ] [ 9 10 ] [ 11 12 ]
+Enter key to search: 7
+7 found

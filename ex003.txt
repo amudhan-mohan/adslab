@@ -1,0 +1,104 @@
+OUTPUT:
+
+Method? 1=Div 2=Mul: 1
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 11
+Value: Apple
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 21
+Value: Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 2
+Key: 11
+Found Apple
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 4
+Index      Key   Value
+0      ---    ---
+1      11   Apple
+2      21   Banana
+3      ---    ---
+4      ---    ---
+5      ---    ---
+6      ---    ---
+7      ---    ---
+8      ---    ---
+9      ---    ---
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 3
+Key: 11
+Deleted
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 2
+Key: 21
+Found Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 2
+Key: 11
+Not found
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 4
+Index      Key   Value
+0      ---    ---
+1      ---    ---
+2      21   Banana
+3      ---    ---
+4      ---    ---
+5      ---    ---
+6      ---    ---
+7      ---    ---
+8      ---    ---
+9      ---    ---
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 5
+
+
+OUTPUT (Multiplication Method):
+
+Method? 1=Div 2=Mul: 2
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 11
+Value: Apple
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 21
+Value: Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 2
+Key: 21
+Found Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 4
+Index      Key   Value
+0      ---    ---
+1      ---    ---
+2      ---    ---
+3      ---    ---
+4      ---    ---
+5      ---    ---
+6      ---    ---
+7      11   Apple
+8      ---    ---
+9      21   Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 5
+
+
+OUTPUT (Delete And Insert The Same Key Again):
+
+Method? 1=Div 2=Mul: 1
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 11
+Value: Apple
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 21
+Value: Banana
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 3
+Key: 11
+Deleted
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 1
+Key: 21
+Value: Banana2
+Key already exists
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 4
+Index      Key   Value
+0      ---    ---
+1      ---    ---
+2      21   Banana
+3      ---    ---
+4      ---    ---
+5      ---    ---
+6      ---    ---
+7      ---    ---
+8      ---    ---
+9      ---    ---
+1.Insert 2.Search 3.Delete 4.Display 5.Exit: 5

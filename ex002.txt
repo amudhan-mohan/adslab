@@ -1,0 +1,16 @@
+OUTPUT:
+
+Enter number of names: 5
+Enter 5 names:
+Senthuran
+Yogesh
+Aadhi
+Amudhan
+Aswathi
+
+Names in descending order:
+Yogesh
+Senthuran
+Aswathi
+Amudhan
+Aadhi

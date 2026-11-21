@@ -1,0 +1,30 @@
+OUTPUT:
+
+Enter number of nodes: 5
+Enter 5 values: 20 10 60 50 30
+Inorder Traversal (Balanced Tree): 10 20 30 50 60
+Preorder Traversal: 20 10 50 30 60
+
+
+OUTPUT (Test 2: Right-Right Case):
+
+Enter number of nodes: 3
+Enter 3 values: 10 20 30
+Inorder Traversal (Balanced Tree): 10 20 30
+Preorder Traversal: 20 10 30
+
+
+OUTPUT (Test 3: Left-Right Case):
+
+Enter number of nodes: 3
+Enter 3 values: 30 10 20
+Inorder Traversal (Balanced Tree): 10 20 30
+Preorder Traversal: 20 10 30
+
+
+OUTPUT (Test 4: Right-Left Case):
+
+Enter number of nodes: 3
+Enter 3 values: 10 30 20
+Inorder Traversal (Balanced Tree): 10 20 30
+Preorder Traversal: 20 10 30
